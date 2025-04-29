@@ -1,5 +1,8 @@
 _repo: Ukosta-akasta-ja-kahdesta-kissanpojasta-b-Kesainen-kertomus-sydansalolaisten-hiljaiselosta_75803
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rissanen, Santeri
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57154
     wikipedia: https://fi.wikipedia.org/wiki/Santeri_Rissanen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75803#Ukosta-akasta-ja-kahdesta-kissanpojasta-b-Kesainen-kertomus-sydansalolaisten-hiljaiselosta
 gutenberg_issued: '2025-04-06'
 gutenberg_type: Text
 identifiers:
